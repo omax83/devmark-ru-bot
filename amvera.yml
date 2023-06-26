@@ -9,4 +9,4 @@ build:
 run:
   jarName: devmark-ru-bot-1.0.0.jar
   persistenceMount: /data
-  containerPort: 8080
+  containerPort: 80
