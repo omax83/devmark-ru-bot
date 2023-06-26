@@ -1,3 +1,6 @@
 telegram:
   botName: MicroNutrientBot
   token: ${TOKEN}
+server:
+  port : 80
+  
